@@ -1,35 +1,266 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umair</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadumairchintaman&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadumairchintaman" /> </p>
+# 👋 Hi, I'm Muhammad Umair
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadumairchintaman" alt="muhammadumairchintaman" /></a> </p>
+### 🚀 MERN Stack Developer | Full Stack Web Developer
 
-- 🔭 I’m currently working on **AI interview generator**
-
-- 🌱 I’m currently learning **Angular , React Native**
-
-- 👯 I’m looking to collaborate on **School Management**
-
-- 🤝 I’m looking for help with **AI interview generator**
-
-- 💬 Ask me about **Full Stack Dev**
-
-- 📫 How to reach me **muhammadumair89@outlook.com**
-
-- ⚡ Fun fact **I am a Web Application Developer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-umair-ab01b5113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-umair-ab01b5113" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/MuhammadUmairChintaman">
+    <img src="https://komarev.com/ghpvc/?username=muhammadumairchintaman&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/MuhammadUmairChintaman?tab=followers">
+    <img src="https://img.shields.io/github/followers/muhammadumairchintaman?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/MuhammadUmairChintaman?tab=repositories">
+    <img src="https://img.shields.io/github/stars/muhammadumairchintaman?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+  <a href="mailto:muhammadumair89@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-umair-ab01b5113">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MuhammadUmairChintaman">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadumairchintaman&show_icons=true&locale=en&layout=compact" alt="muhammadumairchintaman" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadumairchintaman&show_icons=true&locale=en" alt="muhammadumairchintaman" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumairchintaman&" alt="muhammadumairchintaman" /></p>
+## 👨‍💻 About Me
 
+I'm **Muhammad Umair**, a passionate **MERN Stack Developer** focused on building modern, responsive, and user-friendly web applications.
+
+I enjoy transforming ideas into real-world applications using **React, JavaScript, Node.js, Express.js, and MongoDB**.
+
+* 🔭 Currently working on **AI Interview Generator**
+* 🌱 Currently learning **Angular & React Native**
+* 👯 Looking to collaborate on **School Management Systems**
+* 🤖 Exploring **AI-powered web applications**
+* 💬 Ask me about **React, JavaScript, MERN Stack & Full Stack Development**
+* 🚀 Interested in building scalable and practical web applications
+* ⚡ Fun fact: **I love turning ideas into working applications**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,angular,typescript" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" />
+</p>
+
+### 🧰 Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" />
+</p>
+
+### 📱 Currently Exploring
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=reactnative,angular" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/MuhammadUmairChintaman/Contact-Form">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadumairchintaman&repo=Contact-Form&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/MuhammadUmairChintaman/ChatBot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadumairchintaman&repo=ChatBot&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/MuhammadUmairChintaman/ATM-Machine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadumairchintaman&repo=ATM-Machine&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/MuhammadUmairChintaman/To-Do-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadumairchintaman&repo=To-Do-app&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadumairchintaman&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumairchintaman&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=muhammadumairchintaman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadumairchintaman&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadumairchintaman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+# 📌 GitHub Overview
+
+<div align="center">
+
+| 📦 Public Repositories | ⭐ Stars | 👥 Followers |
+| :--------------------: | :-----: | :----------: |
+|         **13+**        |  **3+** |    **10+**   |
+
+</div>
+
+> These numbers automatically appear on GitHub through the dynamic badges above. The values shown here are a snapshot and may change as your profile grows.
+
+---
+
+# 💻 What I Build
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    MUHAMMAD UMAIR                           │
+│                 MERN STACK DEVELOPER                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  🎨 Frontend        → React • Next.js • Tailwind            │
+│                                                             │
+│  ⚙️ Backend         → Node.js • Express.js • REST APIs      │
+│                                                             │
+│  🗄️ Database        → MongoDB • PostgreSQL • Firebase       │
+│                                                             │
+│  🔐 Authentication  → Firebase • JWT • Auth Systems         │
+│                                                             │
+│  🤖 AI              → AI-powered Web Applications            │
+│                                                             │
+│  📱 Mobile          → React Native                           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🌱 Current Focus
+
+```text
+AI Applications
+      ↓
+MERN Stack
+      ↓
+React & Next.js
+      ↓
+Backend APIs
+      ↓
+MongoDB & Databases
+      ↓
+React Native
+```
+
+I'm continuously improving my development skills by building practical projects and exploring modern web technologies.
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Angular-Learning-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React%20Native-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<img src="https://img.shields.io/badge/AI%20Applications-Exploring-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+If you're interested in **collaboration, freelance projects, web development, or AI-powered applications**, feel free to reach out.
+
+<br/>
+
+<a href="mailto:muhammadumair89@outlook.com">
+  <img src="https://img.shields.io/badge/📧%20Email-muhammadumair89%40outlook.com-red?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-umair-ab01b5113">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Umair-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/MuhammadUmairChintaman">
+  <img src="https://img.shields.io/badge/GitHub-MuhammadUmairChintaman-black?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 "Building today. Learning every day. Creating for tomorrow."
+
+<br/>
+
+**⭐ If you find my projects useful, consider giving them a star!**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=muhammadumairchintaman&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
